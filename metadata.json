@@ -1,0 +1,6 @@
+{
+  "name": "CodeVerse AI",
+  "description": "Professional mobile IDE and AI coding assistant with multi-language execution, CodeSense diagnostics, and interactive learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
